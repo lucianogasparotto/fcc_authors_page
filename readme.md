@@ -1,0 +1,1 @@
+This is a small exercise from freeCampCode of an Authors page that use promisses in java script and how to load more cards after press the bottom
